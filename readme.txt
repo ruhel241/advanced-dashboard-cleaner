@@ -38,8 +38,6 @@ Install From WordPress Admin Panel:
 2. Remove Menus Settings
 3. Admin bar Hide Settings
 4. Dashboard Panel
-5. Remove Admin Menus 
-6. Remove Admin Bar Menus
 
 == Changelog ==
 
