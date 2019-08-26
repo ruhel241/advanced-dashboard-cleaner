@@ -1,8 +1,8 @@
-# Dashboard Cleaner 
+# WP Dashboard Cleaner 
 
-## Dashboard cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
+## WP Dashboard cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
 
 ### There are Three Settings 
 	1) Dashboard Cleaner
-	2) Remove Menu
-	3) Adminbar Hide Item
+	2) Remove Menus
+	3) Adminbar Hide Items

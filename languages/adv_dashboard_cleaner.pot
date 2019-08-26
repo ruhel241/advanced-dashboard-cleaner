@@ -1,0 +1,135 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Dashboard Cleaner.\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-24 10:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.1"
+
+#: Classes/DashboardCleanerSettings.php:92
+msgid "Activity"
+msgstr ""
+
+#: Classes/RemoveTopMenusSettings.php:65
+msgid "Add New Content Menu"
+msgstr ""
+
+#: Classes/AdvancedDashboardHandler.php:76
+msgid "Adminbar Hide Items"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Advanced Dashboard Cleaner plugin is the best way to ensure that your "
+"dashboard interior stays clean and looking good."
+msgstr ""
+
+#. Name of the plugin
+msgid "Advanced Dashboard Cleaner."
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:95
+msgid "Appearance"
+msgstr ""
+
+#: Classes/DashboardCleanerSettings.php:88
+msgid "At a Glance"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:91
+msgid "Comments"
+msgstr ""
+
+#: Classes/RemoveTopMenusSettings.php:61
+msgid "Comments Menu"
+msgstr ""
+
+#: Classes/RemoveTopMenusSettings.php:69
+msgid "Customize"
+msgstr ""
+
+#: Classes/AdvancedDashboardHandler.php:74
+msgid "Dashboard Cleaner"
+msgstr ""
+
+#: Classes/AdvancedDashboardHandler.php:90
+msgid "Dashboard Cleaner Setup"
+msgstr ""
+
+#: Classes/AdvancedDashboardHandler.php:94
+msgid "Hide Admin Bar Menus"
+msgstr ""
+
+#: Classes/AdvancedDashboardHandler.php:92
+msgid "Hide Dashboard Menus"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://ruhel.it"
+msgstr ""
+
+#. Author of the plugin
+msgid "MD.RUHEL KHAN."
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:87
+msgid "Media"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:83
+msgid "Pages"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:99
+msgid "Plugins"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:79
+msgid "Posts"
+msgstr ""
+
+#: Classes/DashboardCleanerSettings.php:96
+msgid "Quick Draft"
+msgstr ""
+
+#: Classes/AdvancedDashboardHandler.php:75
+msgid "Remove Menus"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:111
+msgid "Settings"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:107
+msgid "Tools"
+msgstr ""
+
+#: Classes/RemoveTopMenusSettings.php:57
+msgid "Updates Menu"
+msgstr ""
+
+#: Classes/RemoveMenuSettings.php:103
+msgid "Users"
+msgstr ""
+
+#: Classes/DashboardCleanerSettings.php:84
+msgid "Welcome to WordPress!"
+msgstr ""
+
+#: Classes/DashboardCleanerSettings.php:100
+msgid "WordPress Events and News"
+msgstr ""
+
+#: Classes/RemoveTopMenusSettings.php:53
+msgid "Wordpress Logo"
+msgstr ""
