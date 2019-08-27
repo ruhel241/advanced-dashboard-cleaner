@@ -4,7 +4,7 @@ defined("ABSPATH") or die;
 
 /*
 Plugin Name: Advanced Dashboard Cleaner.
-Plugin URI: http://ruhel.it
+Plugin URI: https://github.com/ruhel241/advanced-dashboard-cleaner.git
 Description: Advanced Dashboard Cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
 Author: MD.RUHEL KHAN.
 Version: 1.0.0
