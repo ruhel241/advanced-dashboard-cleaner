@@ -1,6 +1,6 @@
 === Advanced Dashboard Cleaner for WordPress ===
 Contributors: ruhel241
-Tags:  Advanced Dashboard Cleaner, Remove dashboard widgets, Hide adminbar menus.
+Tags:  dashboard, admin, admin menu, dashboard cleaner, remove dashboard widgets, hide, remove
 Requires at least: 4.5
 Requires PHP: 5.4 or greater
 Tested up to: 5.2.2
@@ -13,6 +13,10 @@ Advanced Dashboard cleaner plugin is the best way to ensure that your dashboard 
 == Description ==
 Advanced Dashboard cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
 
+*There are Three Settings*
+    1) Dashboard Cleaner
+	2) Remove Menus
+	3) Adminbar Hide Items
 
 == Installation ==
 
@@ -22,7 +26,7 @@ e.g.
 Install From WordPress Admin Panel:
 1. Login to your WordPress Admin Area
 2. Go to Plugins -> Add New
-3. Search for “WP Dashboard Cleaner”
+3. Search for “Advanced Dashboard Cleaner”
 3. Find this plugin Click “install now”
 4. Activate The Plugin
 
@@ -41,7 +45,10 @@ Install From WordPress Admin Panel:
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Init First version
+
+= 1.1.0 =
+* Readme.txt
 
 == Upgrade Notice ==
