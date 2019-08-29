@@ -7,7 +7,7 @@ Plugin Name: Advanced Dashboard Cleaner.
 Plugin URI: https://github.com/ruhel241/advanced-dashboard-cleaner.git
 Description: Advanced Dashboard Cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
 Author: MD.RUHEL KHAN.
-Version: 1.0.0
+Version: 1.1.0
 Author URI: http://ruhel.it
 License:      GPLv2 or later 
 Text Domain:  adv_dashboard_cleaner
