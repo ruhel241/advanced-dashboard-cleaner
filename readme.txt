@@ -1,6 +1,6 @@
 === Advanced Dashboard Cleaner for WordPress ===
 Contributors: ruhel241
-Tags:  dashboard, admin, admin menu, dashboard cleaner, remove dashboard widgets, hide, remove
+Tags:  dashboard, admin, admin menu, dashboard cleaner, clean, cleaner, remove dashboard widgets, hide, remove
 Requires at least: 4.5
 Requires PHP: 5.4 or greater
 Tested up to: 5.2.2
@@ -8,10 +8,10 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Advanced Dashboard cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
+Advanced Dashboard Cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
 
 == Description ==
-Advanced Dashboard cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
+Advanced Dashboard Cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
 
 *There are Three Settings*
     1) Dashboard Cleaner
