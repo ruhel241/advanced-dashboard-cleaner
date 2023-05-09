@@ -1,5 +1,5 @@
 === Advanced Dashboard Cleaner for WordPress ===
-Contributors: WPCreativeIdea
+Contributors: WPCreativeIdea, ruhel241
 Tags:  dashboard, admin, admin menu, dashboard cleaner, clean, cleaner, remove dashboard widgets, hide, remove
 Requires at least: 4.5
 Requires PHP: 5.4 or greater
