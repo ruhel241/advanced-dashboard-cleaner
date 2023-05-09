@@ -4,15 +4,16 @@ defined("ABSPATH") or die;
 
 /*
 Plugin Name: Advanced Dashboard Cleaner.
-Plugin URI: https://github.com/ruhel241/advanced-dashboard-cleaner.git
 Description: Advanced Dashboard Cleaner plugin is the best way to ensure that your dashboard interior stays clean and looking good.
-Author: MD.RUHEL KHAN.
-Version: 1.1.0
-Author URI: http://ruhel.it
+Version: 1.3.0
+Author: WPCreativeIdea
+Author URI: https://wpcreativeidea.com/home
+Plugin URI: https://github.com/ruhel241/advanced-dashboard-cleaner.git
 License:      GPLv2 or later 
 Text Domain:  adv_dashboard_cleaner
 Domain Path:  /languages
 */
+
 
 
 define("ADVANCED_DASHBOARD_CLEANER_PLUGIN_DIR_URL", plugin_dir_url(__FILE__));
